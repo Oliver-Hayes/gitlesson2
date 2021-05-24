@@ -1,1 +1,7 @@
-hello
+Task list:
+- create first repo (done)
+- add a file to repo (done)#
+- check out git history (done)
+- add task list (done)
+- make an edit in github
+- pull from remote 
